@@ -45,12 +45,12 @@ namespace RS_Helper
         #region Progress bar
         public void AnimateProgBar(int milliSeconds)
         {
-            if (!timer1.Enabled)
-            {
-                progressBar1.Value = 0;
-                timer1.Interval = (int)Math.Ceiling((double)milliSeconds / 100);
-                timer1.Enabled = true;
-            }
+            if (timer1.Enabled)
+                return;
+
+            progressBar1.Value = 0;
+            timer1.Interval = (int)Math.Ceiling((double)milliSeconds / 100);
+            timer1.Enabled = true;
         }
         #endregion
         #region Timers
@@ -61,7 +61,12 @@ namespace RS_Helper
                 progressBar1.Value += 1;
                 progressBar1.Refresh();
             }
-            else timer1.Enabled = false; ModifyProgressBarColor.SetState(progressBar1, 2);
+            else
+            {
+                timer1.Enabled = false;
+            }
+
+            ModifyProgressBarColor.SetState(progressBar1, 2);
         }
         #endregion
 
