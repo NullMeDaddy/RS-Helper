@@ -1,0 +1,18 @@
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\bin\Debug\testForm.exe.config
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\bin\Debug\testForm.exe
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\bin\Debug\testForm.pdb
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.Form1.resources
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.Properties.Resources.resources
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\RS Helper.csproj.GenerateResource.Cache
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.exe
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.pdb
+C:\Users\Sezer\Desktop\RS Helper\testForm\bin\Debug\RS Helper.exe.config
+C:\Users\Sezer\Desktop\RS Helper\testForm\bin\Debug\RS Helper.exe
+C:\Users\Sezer\Desktop\RS Helper\testForm\bin\Debug\RS Helper.pdb
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS Helper.csprojAssemblyReference.cache
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.Form1.resources
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.Properties.Resources.resources
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS Helper.csproj.GenerateResource.cache
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS Helper.csproj.CoreCompileInputs.cache
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS Helper.exe
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS Helper.pdb

@@ -1,0 +1,9 @@
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\bin\Debug\testForm.exe.config
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\bin\Debug\testForm.exe
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\bin\Debug\testForm.pdb
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.csprojResolveAssemblyReference.cache
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.Form1.resources
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.Properties.Resources.resources
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.csproj.GenerateResource.Cache
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.exe
+C:\Users\mehmet.sezer\Documents\Visual Studio 2017\Projects\testForm\testForm\obj\Debug\testForm.pdb

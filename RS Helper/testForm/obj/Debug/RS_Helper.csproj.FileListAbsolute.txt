@@ -1,0 +1,9 @@
+C:\Users\Sezer\Desktop\RS Helper\testForm\bin\Debug\RS_Helper.exe.config
+C:\Users\Sezer\Desktop\RS Helper\testForm\bin\Debug\RS_Helper.exe
+C:\Users\Sezer\Desktop\RS Helper\testForm\bin\Debug\RS_Helper.pdb
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.Form1.resources
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.Properties.Resources.resources
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.csproj.GenerateResource.cache
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.csproj.CoreCompileInputs.cache
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.exe
+C:\Users\Sezer\Desktop\RS Helper\testForm\obj\Debug\RS_Helper.pdb
